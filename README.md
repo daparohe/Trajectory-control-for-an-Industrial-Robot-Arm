@@ -14,7 +14,7 @@ Below is the description of the files uploaded to the repository:
 
 - `seguidor_de_linea_CNN.py`: Control code for the industrial arm trajectory using neural networks.
 
-- `comparacion_resultados.ipynb`: Python notebook comparing the trajectory graphs obtained by the three control algorithms. Libraries are used to obtain corresponding comparison metrics with the original curve.
+- `comparacion_resultados.ipynb`: Python notebook comparing the trajectory graphs obtained by the three control algorithms. Libraries are used to obtain corresponding comparison metrics with the original curve. In addition, at the end of this file the images are saved with different colors for the purpose of visual comparison in the paper.
 
 Important Notes:
 
