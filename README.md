@@ -21,4 +21,4 @@ Important Notes:
 - Within the following OneDrive link is the folder that stores both the data used to train the neural network (images in the "im" folder and pixel difference data as well as X and Y positions in the "data.xlsx" file). All of this is stored in the compressed folder named "Datos CNN.zip", and this data is used by the file "entrenamiento_CNN.ipynb" to train the convolutional neural network.
 - Within the same folder is the exported model in keras format named "cnn_modelo.keras" generated in the file "entrenamiento_CNN.ipynb". This model is used by the file "seguidor_de_linea_CNN.py" to control the trajectory of the industrial robot using the trained neural network.
 
-OneDrive Link: [https://utpl-my.sharepoint.com/:f:/g/personal/dprosales2_utpl_edu_ec/EkLhSvTFCgxHt955c9I8GIoBiW1Y7YPBTeAtKvS7QKsdIw?e=hTAnli]
+OneDrive Link: https://utpl-my.sharepoint.com/:f:/g/personal/dprosales2_utpl_edu_ec/EkLhSvTFCgxHt955c9I8GIoBiW1Y7YPBTeAtKvS7QKsdIw?e=hTAnli
